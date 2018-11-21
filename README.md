@@ -2,7 +2,7 @@
 *Plug-in for Delphi IDE, which sets keyboard shortcuts to move to a next/prev modification in an opened file*
 
 ## How to install
-* If you use Delphi 10.2.3:
+* If you use Delphi 10.3:
   * download the EditorShortcuts.bpl package from Bin folder,
   * start Delphi IDE. In Components menu | Install packages... press Add. Select the downloaded package. Press Open. OK.
   
